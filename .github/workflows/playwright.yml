@@ -9,7 +9,7 @@ jobs:
   test:
     runs-on: ubuntu-latest
     env:
-      BASE_URL: https://www.kfc.com
+      BASE_URL: https://www.qa.kfc-digital.io
 
     steps:
       - uses: actions/checkout@v3
