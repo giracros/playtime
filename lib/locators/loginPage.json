@@ -1,0 +1,4 @@
+{
+    "emailTextBox" : "input[id=email]", 
+    "signInSignUpButton" : "button:has-text('Log In / Sign Up')"
+}

@@ -1,0 +1,10 @@
+{
+    "dismissNoticeButton": "role=button[name='Dismiss Notice']",
+    "privacyCenterLink": "role=link[name='Privacy Center']",
+    "termsOfUseLink": "role=link[name='Terms of Use']",
+    "cookiesAndAdsLink": "role=link[name='Our Cookies and Ads']",
+    "accessibilityStatementLink": "role=link[name='Accessibility Statement']",
+    "kfcRewardsTermsLink": "role=link[name='KFC Rewards Terms']",
+    "faqLink": "role=link[name='FAQ']",
+    "contentInfo": "role=contentinfo"
+} 

@@ -1,0 +1,7 @@
+{
+    "menuLink": "header >> role=link[name='Menu']",
+    "rewardsLink": "header >> role=link[name='Rewards']",
+    "careersLink": "header >> role=link[name='Careers']",
+    "giftCardsLink": "header >> role=link[name*='Gift']",
+    "findAKFCLink": "header >> role=link[name^='Find A KFC']"
+} 
